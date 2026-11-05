@@ -1,0 +1,14 @@
+{
+  "dock": [],
+  "hidden": [],
+  "wallpaper": "",
+  "fontFile": "",
+  "tilesPerRow": 6,
+  "autoDark": true,
+  "showStats": false,
+  "screensaverMinutes": 5,
+  "weather": { "lat": 40.71, "lon": -74.0, "fahrenheit": false },
+  "geminiKey": "",
+  "chatModel": "gemini-2.5-flash",
+  "imageModel": "gemini-2.5-flash-image"
+}
